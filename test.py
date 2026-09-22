@@ -1,5 +1,5 @@
-def sum(a,b):
-  sum=a+b
-  print("sum:",sum)
-add(10,20)  
+def multi(a,b):
+  multi=a*b
+  print("multi:",multi)
+multi(10,20)  
   
